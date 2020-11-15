@@ -1,0 +1,10 @@
+{
+    "name": "food-court:6789",
+    "script": "npm",
+    "args": "run dev",
+    "watch": false,
+    "env": {
+        "PORT": 6789,
+        "NODE_ENV": "development"
+    }
+  }
